@@ -22,3 +22,12 @@ We will assume we are an electronic-equipment sales company and we have clients 
 | Nicole |  Maria | | nicole@gmail.com | 611 111 1113 | 23/07/2002 | NI1233333 | 75$ |
 | Andreas |  San | sandreas@gmail.com | 611 111 1114 | 30/10/2000 | SA1233333 | 93$ |
 | Kim |  Wilde | kimw@gmail.com | 611 111 1115 | 08/03/2005 | KW1233335 | 250$ |
+
+
+
+
+| Table MyTable | This is an example column | Another example column |
+| --------------- | ---------------- | --------------- |
+| Coconut | Melon | Apple |
+| Linus | Windows | Apple |
+| 0$ | 100$ | 1000$|
