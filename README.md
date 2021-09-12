@@ -9,7 +9,7 @@ SOURCE : http://www.sqlcourse.com/intro.html
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-00_ Creating A Database
+01_ Creating A Database
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We will assume we are an electronic-equipment sales company and we have clients ( or users ) registered to our server with these data :
