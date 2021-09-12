@@ -11,17 +11,17 @@ primary key (IDNUMBER)
 );
 
 INSERT INTO DATABASE_MYCOMPANY VALUES 
-(‘John’, ‘Doe’, ‘johndoe@gmail.com’,‘611 111 1111’, ‘20/01/2000’, ‘JO1111111’, ‘50.0’);
+(‘John’, ‘Doe’, ‘johndoe@gmail.com’,‘6111111111’, ‘20/01/2000’, ‘JO1111111’, ‘50.0’);
 
 INSERT INTO DATABASE_MYCOMPANY VALUES 
-(‘Linus’, ‘Sebastian’, ‘linus@gmail.com’,‘611 111 1112’, ‘15/03/2001’, ‘LO1222222’, ‘100.0’);
+(‘Linus’, ‘Sebastian’, ‘linus@gmail.com’,‘6111111112’, ‘15/03/2001’, ‘LO1222222’, ‘100.0’);
 
 INSERT INTO DATABASE_MYCOMPANY VALUES 
-(‘Nicole’, ‘Maria’, ‘nicole@gmail.com’,‘611 111 1113’, ‘23/07/2002’, ‘NI1233333’, ‘75.0’);
+(‘Nicole’, ‘Maria’, ‘nicole@gmail.com’,‘6111111113’, ‘23/07/2002’, ‘NI1233333’, ‘75.0’);
 
 INSERT INTO DATABASE_MYCOMPANY VALUES 
-(‘Andreas’, ‘San’, ‘sandreas@gmail.com’,‘611 111 1114’, ‘30/10/2000’, ‘SA1233333’, ‘93.0’);
+(‘Andreas’, ‘San’, ‘sandreas@gmail.com’,‘6111111114’, ‘30/10/2000’, ‘SA1233333’, ‘93.0’);
 
 INSERT INTO DATABASE_MYCOMPANY VALUES 
-(‘Kim’, ‘Wilde’, ‘kimw@gmail.com’,‘611 111 1115’, ‘08/03/2005’, ‘KW1233335’, ‘250.0’);
+(‘Kim’, ‘Wilde’, ‘kimw@gmail.com’,‘6111111115’, ‘08/03/2005’, ‘KW1233335’, ‘250.0’);
 
