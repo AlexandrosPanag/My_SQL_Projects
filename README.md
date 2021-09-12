@@ -17,8 +17,8 @@ We will assume we are an electronic-equipment sales company and we have clients 
 
 | name | Surname | E-mail | Phone | Birthdate | ID Number | Money Spent |
 | --------------- | ---------------- | --------------- | | --------------- | | --------------- | | --------------- | | --------------- |
-| John | | Doe | | johndoe@gmail.com | 611 111 1111 | 20/01/2000 | JO1111111 | 50$ |
+| John |  Doe | | johndoe@gmail.com | 611 111 1111 | 20/01/2000 | JO1111111 | 50$ |
 | Linus| Sebastian | | linus@gmail.com | 611 111 1112 | 15/03/2001 | LO1222222| 100$ |
-| Nicole | | Maria | | nicole@gmail.com | 611 111 1113 | 23/07/2002 | NI1233333 | 75$ |
-| Andreas | | San | sandreas@gmail.com | 611 111 1114 | 30/10/2000 | SA1233333 | 93$ |
-| Kim | | Wilde | kimw@gmail.com | 611 111 1115 | 08/03/2005 | KW1233335 | 250$ |
+| Nicole |  Maria | | nicole@gmail.com | 611 111 1113 | 23/07/2002 | NI1233333 | 75$ |
+| Andreas |  San | sandreas@gmail.com | 611 111 1114 | 30/10/2000 | SA1233333 | 93$ |
+| Kim |  Wilde | kimw@gmail.com | 611 111 1115 | 08/03/2005 | KW1233335 | 250$ |
