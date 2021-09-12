@@ -15,7 +15,7 @@ SOURCE : http://www.sqlcourse.com/intro.html
 We will assume we are an electronic-equipment sales company and we have clients ( or users ) registered to our server with these data :
 
 
-| name | Surname | E-mail | Phone | Birthdate | ID Number | Money Spent |
+| Name | Surname | E-mail | Phone | Birthdate | ID Number | Money Spent |
 | --------------- | ---------------- | --------------- | --------------- | --------------- |  --------------- |  --------------- |
 | John |  Doe |  johndoe@gmail.com | 611 111 1111 | 20/01/2000 | JO1111111 | 50$ |
 | Linus| Sebastian |  linus@gmail.com | 611 111 1112 | 15/03/2001 | LO1222222| 100$ |
