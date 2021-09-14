@@ -30,5 +30,12 @@ We will assume we are an electronic-equipment sales company and we have clients 
 
 This is an easy method of how we can add more columns to our database and if we are not entirely sure we want columns in our database, we can remove them
 
+The basic formats are : 
+
+
+ALTER TABLE <table name> ADD <column name> <type of the field i.e int , double, varchar(10) etc>;
+
+
+ALTER TABLE <table name> DROP COLUMN <column name>;
 
 
