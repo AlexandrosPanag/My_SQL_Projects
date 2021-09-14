@@ -48,4 +48,14 @@ ALTER TABLE <table name> DROP COLUMN <column name>;
   
  If we want to change a column's data type (i.e from int to double ) we use the ALTER TABLE <name of the table> MODIFY <column name > <NEW DATATYPE>;
   
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+04_UPDATE TABLE
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+With the update command , we can easily modify (update) our table with a new value in case something changed or we wish to change it
+  
+  
+  
+  
+UPDATE <table name>
+SET <field name> = <NEW value>
+WHERE <condition equals to>;
