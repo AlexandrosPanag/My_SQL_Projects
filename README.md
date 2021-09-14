@@ -39,3 +39,13 @@ ALTER TABLE <table name> ADD <column name> <type of the field i.e int , double, 
 ALTER TABLE <table name> DROP COLUMN <column name>;
 
 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+03_ALTER TABLE MODIFY
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+ If we want to change a column's data type (i.e from int to double ) we use the ALTER TABLE <name of the table> MODIFY <column name > <NEW DATATYPE>;
+  
+
