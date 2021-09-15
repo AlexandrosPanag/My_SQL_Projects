@@ -66,3 +66,10 @@ With the update command , we can easily modify (update) our table with a new val
 UPDATE <table name>
 SET <field name> = <NEW value>
 WHERE <condition equals to>;
+  
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+05_ Temporary Table Example 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Temporary tables can be used to work with intermediate data or results. Also, complex queries with joins or nested queries can be broken up and worked on step-by-step by storing intermediate results in temporary tables.
