@@ -85,6 +85,8 @@ WHERE <condition equals to>;
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 06_ LIKE Operator 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  The LIKE operator works only with string data types and allows us to retrieve rows based on pattern matching on a particular column.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+  
+  The LIKE operator works only with string data types and allows us to retrieve rows based on pattern matching on a particular column.
   
   
