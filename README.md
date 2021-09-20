@@ -76,6 +76,12 @@ WHERE <condition equals to>;
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  Temporary tables can be used to work with intermediate data or results. Also, complex queries with joins or nested queries can be broken up and worked on step-by-step by storing intermediate results in temporary tables.
+
+  
+  
+  
+  
+  
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 06_ LIKE Operator 
