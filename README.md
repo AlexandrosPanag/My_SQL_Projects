@@ -39,7 +39,7 @@ We will assume we are an electronic-equipment sales company and we have clients 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-02_ALTER TABLE ADD / ALTER TABLE DROP COLIMN
+02_ALTER TABLE ADD / ALTER TABLE DROP COLUMN
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is an easy method of how we can add more columns to our database and if we are not entirely sure we want columns in our database, we can remove them
