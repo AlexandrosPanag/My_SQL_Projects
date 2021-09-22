@@ -117,9 +117,27 @@ SOURCE: https://www.educative.io/courses/introductory-guide-to-sql/qVm252ArXPk
   
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-09_ Order By Close
+09_ ORDER BY Close
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   The ORDER BY clause is followed by the column name on which we intend to sort. This column is called the sort key. By default, the sorting is case-insensitive and in ascending order. Sorting of string columns depends on the character set being used and the collation order.
   
   SOURCE: https://www.educative.io/courses/introductory-guide-to-sql/xoKDKokX3Bz
+  
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10 _ LIMIT Clause
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  Usually tables in a production environment have thousands or millions of rows and a select query may return several hundred matched rows. This is problematic because outputting thousands of rows on the console or on a network connection can overwhelm the end-user in the former and is impractical in the latter scenario. The LIMIT clause allows us to restrict the number of rows returned from the result of a select query.
+  
+  The SQL LIMIT statement restricts how many rows a query returns. A LIMIT statement appears at the end of a query, after any ORDER BY statements. You can start a LIMIT statement at a particular row using the offset argument.
+
+When you’re working in SQL, you may only want to retrieve a specific number of rows from a query.
+
+For example, you may want to retrieve the top three employees based on the number of “employee of the month” awards they have earned. This is easier to read than a list of all employees and how many “employee of the month” awards they have earned.
+
+There is a built-in SQL function that allows you to perform this action: SQL LIMIT. Limit allows you to limit the number of records a query to a certain amount.
+  
+  SOURCE : https://careerkarma.com/blog/sql-limit/
+  SOURCE : https://www.educative.io/courses/introductory-guide-to-sql/qAVpzEKg45k
