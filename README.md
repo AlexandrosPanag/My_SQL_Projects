@@ -114,3 +114,12 @@ All the other rows in the table either fail or satisfy both conditions and aren'
 
 
 SOURCE: https://www.educative.io/courses/introductory-guide-to-sql/qVm252ArXPk
+  
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+09_ Order By Close
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  The ORDER BY clause is followed by the column name on which we intend to sort. This column is called the sort key. By default, the sorting is case-insensitive and in ascending order. Sorting of string columns depends on the character set being used and the collation order.
+  
+  SOURCE: https://www.educative.io/courses/introductory-guide-to-sql/xoKDKokX3Bz
