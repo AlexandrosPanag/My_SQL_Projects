@@ -141,3 +141,10 @@ There is a built-in SQL function that allows you to perform this action: SQL LIM
   
   SOURCE : https://careerkarma.com/blog/sql-limit/
   SOURCE : https://www.educative.io/courses/introductory-guide-to-sql/qAVpzEKg45k
+  
+  
+  
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11_ Deleting Data
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
