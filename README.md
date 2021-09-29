@@ -148,3 +148,10 @@ There is a built-in SQL function that allows you to perform this action: SQL LIM
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 11_ Deleting Data
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  DELETE can be used to delete specific rows , columns or even data or sometimes even entire tables.
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12_ Truncate
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  The TRUNCATE statement drops a table and recreates it for faster processing. MySQL doesn't count the number of rows affected and may show the count to be zero or non-zero, but the number doesn't reflect the actual number of rows affected.
