@@ -11,6 +11,8 @@ SQL (pronounced "ess-que-el") stands for Structured Query Language. SQL is used 
 SOURCE : http://www.sqlcourse.com/intro.html
 
 
+Compiler (IDE) used : https://www.mysql.com/downloads/ , https://www.phpmyadmin.net
+
 Most Meterial was based on but altered : https://www.educative.io/courses/introductory-guide-to-sql/ , https://www.sololearn.com/learning/1060  & https://www.w3schools.com/sql/
 
 Other Meterial was based on the valuable book of "Fundementals of Database Systems" by ELMASRI & NAVATHE
