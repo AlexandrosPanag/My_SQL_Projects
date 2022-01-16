@@ -1,5 +1,9 @@
 # My SQL Projects
 --------------------------------------------------------------------------------
+
+✅ LinkedIn Skill Assessment badge
+https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
+
 My certificate from Sololearn , https://www.sololearn.com/certificates/course/en/17520389/1060/landscape/png?fbclid=IwAR13vyCI1VikjBPjHGnDqlkR1rUGdnIeyH5dtOU7dbinBzw-kCXho-OX6XQ
 
 --------------------------------------------------------------------------------
