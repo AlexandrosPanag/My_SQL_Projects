@@ -1,5 +1,8 @@
 # My SQL Projects
 --------------------------------------------------------------------------------
+
+⚠️ THIS REPOSITORY WILL BE UPDATED BY >JUNE/JULY 2023 !!!
+
 <img src="https://img.shields.io/bower/l/mi">
 
 
