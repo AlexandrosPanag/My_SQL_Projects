@@ -1,6 +1,5 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What is MYSQL?
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 Developed in the mid-90s., MySQL was one of the first open-source database available in the market. Today there are many alternatives variants of MySQL,. However, the differences between the variants are not significant as they use the same syntax, and basic functionality also remains same.
 
