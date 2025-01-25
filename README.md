@@ -1,7 +1,7 @@
 # My SQL Projects
 --------------------------------------------------------------------------------
 
-⚠️ THIS REPOSITORY WILL BE UPDATED BY 2025 DUE TO LACK OF TIME!!!
+⚠️ THIS REPOSITORY WILL BE UPDATED BY LATE 2025-2026 DUE TO LACK OF TIME!!!
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
