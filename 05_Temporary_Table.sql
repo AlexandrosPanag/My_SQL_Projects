@@ -1,1 +1,0 @@
-CREATE TEMPORARY TABLE DatabExampleoftemptable (EMAIL VARCHAR(20));
